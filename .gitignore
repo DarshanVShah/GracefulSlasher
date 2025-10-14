@@ -31,3 +31,7 @@ Thumbs.db
 # Sensitive data (example)
 .env
 config.properties
+
+# Temporary files
+*.tmp
+*.mf
